@@ -4,7 +4,7 @@
 
 ###Dot
 [Phone Wallpaper 1](https://github.com/timtim-101/final-work/images/dot1.png)
-[Phone Wallpaper 1](https://github.com/timtim-101/final-work/images/dot2.png)
+[Phone Wallpaper 2](https://github.com/timtim-101/final-work/images/dot2.png)
 
 ###Line
 [PC Wallpaper 1](https://github.com/timtim-101/final-work/images/line1.png)
