@@ -25,4 +25,4 @@
 [Pioneers of Postmodern Graphic Design](https://github.com/timtim-101/final-work/images/design-history.png)
 
 ###Design Essay Webpage
-[Paula Scher: From Pennsylvania to Pentagram]()
+[Paula Scher: From Pennsylvania to Pentagram](https://github.com/timtim-101/paula-scher/index.html)
