@@ -17,9 +17,9 @@
 ##IXD102 (Sep - Dec)
 
 ###Type Specimen Poster
-[Poster 1](https://timtim-101.github.io/final-work/images/type1)
-[Poster 2](https://timtim-101.github.io/final-work/images/type2)
-[Poster 3](https://timtim-101.github.io/final-work/images/type3)
+[Poster 1](https://timtim-101.github.io/final-work/images/type1.png)
+[Poster 2](https://timtim-101.github.io/final-work/images/type2.png)
+[Poster 3](https://timtim-101.github.io/final-work/images/type3.png)
 
 ###Design History Poster
 [Pioneers of Postmodern Graphic Design](https://timtim-101.github.io/final-work/images/design-history.png)
